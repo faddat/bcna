@@ -1,6 +1,6 @@
 module github.com/BitCannaGlobal/bcna
 
-go 1.18
+go 1.21.0
 
 require (
 	github.com/cosmos/cosmos-sdk v0.45.9
@@ -10,7 +10,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/ignite/cli v0.23.0
-	github.com/spf13/cast v1.5.0
+	github.com/spf13/cast v1.10.0
 	github.com/spf13/cobra v1.5.0
 	github.com/stretchr/testify v1.8.0
 	github.com/tendermint/tendermint v0.34.21
